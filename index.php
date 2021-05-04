@@ -1,5 +1,5 @@
 <?php
 
-	"Eae caraiow";
+	"Olá galerinha";
 
 ?>
